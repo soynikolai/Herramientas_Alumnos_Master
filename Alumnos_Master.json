@@ -1,0 +1,72 @@
+{
+    "Respuesta": {
+        "Titulo": "Alumnos de un Master ",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Alumnos de un master",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Autor",
+                    "Clasificacion": null,
+                    "Unidad": "Número de estudiantes de un Master",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Alumno": "Nikolai Castro Méndez",
+                            "Nota": 9.09,
+                            "Ranking": 10,
+                        },
+                        {
+                            "Alumno": "Estefania Fajardo",
+                            "Nota": 7.09,
+                            "Ranking": 8,
+                        },
+                        {
+                            "Alumno": "Stephany Castro",
+                            "Nota": 10,
+                            "Ranking": 10,
+                        },
+                        {
+                            "Alumno": "Jesus Romero",
+                            "Nota": 2.02,
+                            "Ranking": 3,
+                        },
+                        {
+                            "Alumno": "Eduardo Mancera",
+                            "Nota": 5.05,
+                            "Ranking": 6,
+                        },
+                        {
+                            "Alumno": "Natalia Baez",
+                            "Nota": 10,
+                            "Ranking": 10,
+                        },
+                        {
+                            "Alumno": "Juan Ibarra",
+                            "Nota": 7.07,
+                            "Ranking": 8,
+                        },
+                        {
+                            "Alumno": "Leydin Villa",
+                            "Nota": 4.04,
+                            "Ranking": 5,
+                        },
+                        {
+                            "Alumno": "Nathalia Villamizar",
+                            "Nota": 8.05,
+                            "Ranking": 9,
+                        },
+                        {
+                            "Alumno": "Monica Carrillo",
+                            "Nota": 3.03,
+                            "Ranking": 4,
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
